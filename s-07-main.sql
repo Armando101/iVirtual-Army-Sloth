@@ -15,3 +15,6 @@ Prompt Carga de Datos
 
 Prompt Simulacion de un Carrito de compras con tablas temporales
 @s-03-tablas-temporales.sql
+
+--Prompt Consultas a criterio libre:
+--@s-08-consultas.sql
